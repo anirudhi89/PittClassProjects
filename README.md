@@ -1,7 +1,7 @@
 # PittClassProjects
 Code for class projects
 
-##List of CS Classes I have taken:
+## List of CS Classes I have taken:
 
 | Course Name                               | Official Name + Info | Language                                 |
 | ----                                      |    ------            |   ----------                             |
